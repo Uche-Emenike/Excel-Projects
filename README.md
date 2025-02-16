@@ -6,7 +6,6 @@ This repository contains a collection of  Excel projects, each focusing on data 
 The projects are organized within separate folders for easy navigation.
 
 Projects Includes,
-
 . Data Cleaning Project 1
 . Data Analysis Project 2
 . Data Visualization Project 3
