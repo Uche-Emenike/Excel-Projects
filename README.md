@@ -4,8 +4,8 @@ A collection of excel projects including data Cleaning, Analysis, and Dashboards
 
 the project is organized into three category: 
 
-## Data Cleaning 
+1. Data Cleaning 
 
-## Data analysis
+2. Data analysis
 
-## Dashboards
+3. Dashboards
